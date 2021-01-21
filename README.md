@@ -1,6 +1,6 @@
 ### Hey there, I'm Jeba!
 
-- I'm currently pursuing my bachelor's degree in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
+- I'm currently pursuing bachelor's degree in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
 - I’m currently learning Flutter & Machine Learning.
 - I’m looking to collaborate on Flutter projects.
 
