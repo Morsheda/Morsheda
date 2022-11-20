@@ -1,6 +1,6 @@
 ### Hey there, I'm Jeba!
 
-- I'm currently pursuing bachelor's degree in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
+- I've completed my B.Sc. in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
 
 
 ### Connect with me:
