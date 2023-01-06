@@ -1,5 +1,6 @@
 ### Hey there, I'm Jeba!
 
+- I'm currently working as a <b>Junior Software Engineer</b> at <a href="https://www.dsinnovators.com/">Dynamic Solution Innovators Ltd.</a>.
 - I've completed my B.Sc. in Computer Science & Engineering from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Techonology</a>.
 
 
