@@ -38,7 +38,7 @@
 ### Github Stats
 <hr>
 
-<img align="center" src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=Morsheda&show_icons=true&theme=algolia"/>
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Morsheda&show_icons=true&theme=algolia"/>
 
 [linkedin]:https://www.linkedin.com/in/morsheda-siddiqua-jeba-86aa831b2/
 [youtube]:https://www.youtube.com/channel/UC3kKd3Vw75zFydeDzr7DDRQ
